@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Hi!
+#### Article: [Is Software Development an Art or Just Work?](https://medium.com/thriving-in-engineering/is-software-development-an-art-or-just-work-e82110af3d28)
+
+I like this article, because as a person who is studying in both the creative field and the field of Software Development, this combines my two interests and puts them in conversation with one another. I like the question of whether software development is just art or work, because it relates to a question / thought process I've had many times thinking about working in this field; I love coding and sofware development, but I am a naturally creative person who loves working in artistic spaces. I'm always thinking about ways to combine my love for coding with my love for art, so the concept of software development itself being an art is interesting to me.
